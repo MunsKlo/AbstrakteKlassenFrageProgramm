@@ -1,0 +1,11 @@
+E:\Visual Studio\FrageProgramm\bin\Debug\netcoreapp3.1\FrageProgramm.exe
+E:\Visual Studio\FrageProgramm\bin\Debug\netcoreapp3.1\FrageProgramm.deps.json
+E:\Visual Studio\FrageProgramm\bin\Debug\netcoreapp3.1\FrageProgramm.runtimeconfig.json
+E:\Visual Studio\FrageProgramm\bin\Debug\netcoreapp3.1\FrageProgramm.runtimeconfig.dev.json
+E:\Visual Studio\FrageProgramm\bin\Debug\netcoreapp3.1\FrageProgramm.dll
+E:\Visual Studio\FrageProgramm\bin\Debug\netcoreapp3.1\FrageProgramm.pdb
+E:\Visual Studio\FrageProgramm\obj\Debug\netcoreapp3.1\FrageProgramm.csprojAssemblyReference.cache
+E:\Visual Studio\FrageProgramm\obj\Debug\netcoreapp3.1\FrageProgramm.AssemblyInfoInputs.cache
+E:\Visual Studio\FrageProgramm\obj\Debug\netcoreapp3.1\FrageProgramm.AssemblyInfo.cs
+E:\Visual Studio\FrageProgramm\obj\Debug\netcoreapp3.1\FrageProgramm.dll
+E:\Visual Studio\FrageProgramm\obj\Debug\netcoreapp3.1\FrageProgramm.pdb
